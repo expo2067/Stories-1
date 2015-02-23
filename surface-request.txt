@@ -1,0 +1,263 @@
+;; The following is a dialog between abductee ID-77-8a-301
+;; (known unofficialy as "Albert") and ZR-operative 44-LAMESH-(nolo)
+;; (also indexed variously as "Admiral Telos", "Qantuum" and
+;; "An ambiguous refutation").
+;;
+;; The ZR-operative is attempting 
+;; to explain the intricate, multiple threats to the local
+;; cosmic harmony posed by the HAARP project.
+;; 
+;; A standard mnemeo-vibratic interpretive agent has been used
+;; to produce the attached annotated trace of the incident.
+;; 
+;; Even though the human neurology in question had been upgraded
+;; to enhanced z-association protocols (MILSPEC-Sunflower 2.0 spec),
+;; it remains unclear as to whether the abductee
+;; really "understood" what he was being told.
+
+
+;; STEP 1: the ZR-operative establishes the subject and purpose
+;; of the discussion.
+
+>>>>surface-request( 
+	focus( 
+		local-designator( "HAARP", "HIGH FREQUENCY ACTIVE AURORAL RESEARCH PROJECT"), 
+		extern-designator( 
+			combine(
+				"Power-hungry attitudes limit your rejuvenated light pulses",
+				"A lack of perception of your human place in the grid",
+				"Your blockages of perception focus the localized disturbances"
+			),
+			linkWith(
+				AT_MOST_TWO_OF(
+					"however that may be",
+					"for this reason",
+					"if not",
+					"in that case",
+					"in this way"
+				),
+				extendDiscreteTime(
+					"We may accomplish significant neuronal analysis",
+					byMeansOf( "the merging of our two worlds" ),
+					ORDER_BY( defineHierarchy(
+						"simply because we can communicate",
+						"variants within the fiber itself",
+						"will promote remote sensing of the skip area"
+					))	
+				),
+				successiveSamples( 
+					nucleateMotivation(
+						ANY_TWO_OF ( 
+							"cycle of the life wave",
+							"structure for an argumentative constituent",
+							"only serves to dissipate amniotic radiations",
+							"a number of marvelous effects at these low levels"
+						)
+					)
+				)
+			)
+		),
+		purposive-causative(
+			informWhether( m, 
+				z-implant( SEVERE, "networking is progressing" ) 
+			),
+			informWhether( m, 
+				z-implant( SEVERE, "transforming your place within the rejuvenated possibilities" ) 
+			),
+			findConnectiveRegime( ANY_ONE_OF (
+					"these are the Severities",
+					"in all this is no voice and no motion",
+					"a grape between her teeth"
+				),
+				extensionRepresented( ANY_ONE_OF (
+					rephrase, parallel, example, background, arduous
+					)
+				)
+			)
+				
+		)
+	)
+)
+>>>>surface-request(r, m, inform-ref(m, r, future-causative("What will happen")))
+>>>>surface-request(r, q, inform-ref(m, q, spiralsPerSecond))
+
+IsEnergy( expressed( knowIf(HYDROGEN, ERBIUM)), shouldTry )
+IsEnergy( expressed( stellarSpectra( isotope-anamolies, localCluster ),
+	ANY-TWO-OF( technetium, polonium, promethium ) )
+
+
+
+
+
+personalKnowledgeQuery( "free from external controls" ) 
+personalKnowledgeQuery( "functions as a working whole" ) 
+
+historicalKnowledgeAccess( 
+	socio-transform(
+		intentional( "in stepped up modulation" ),
+		intentional( "lengthy and often arduously lonely" ),			
+		expressed( benefits-of( 
+			"to ensure enhanced spectral selectivity",
+			"every second section of the octagon",
+			"held replacement batteries and",
+			"spare lithium hydroxide canisters"
+		))
+	),
+	"myriad levels of new awareness"
+)
+
+;; The Operative seems to be referring to certain details of the 
+;; Apollo space program in an attempt to provide an
+;; example of some aspect of what he is discussing.
+;;
+backgroundRef(
+	historicalKnowledgeAccess( 
+		technicalQuery( "Reaction Control System" ),
+		additive-justification(
+			combineWith( ALL_OF (
+				sequencePresent(
+					"careful coordination was needed"
+					"while they were in orbit "
+					"under the intended test conditions"
+				)
+				sequencePresent(
+					"the lights dimmed as she glanced over at him"
+				)
+			))
+		)
+	),
+	concedeEvidenceOf(
+		"grudgingly accepted by the system",
+		"eager dedication can be exploited",
+		"as enticing as it was super-convulsive",
+		"always alluring",
+		despiteEncodingOf( "the monadic wonderful" )
+		AND
+		despite-occurence-of( "PDUInit (RhetRespAck)-132 terminal" )
+	)
+)
+
+ConceptRelative( [tell, say, speak, inform, relate, advise, ...] )
+ConceptActive( [joy, being, life, trust, attention] )
+ConceptActive( compliance-check-violated [reverence, escalation, third optical window] )
+
+expressed( "Networking is all but complete" )
+expressed( "The old spiral of already delivered messages" )
+expressedRef( "A merging of the two worlds, or all human things are leveled in vast chaos" )
+
+defineRelation(
+	impressingTheirMessages,	
+	constructRelation( 
+		combine(
+			inform( "a device to allow you to move ever forward" ),
+			knowWhether( "will emerge from the sea at 96 points" ),
+			enablement( conjunct,
+				confirm( "number of spirals per second" ),
+				askif( "simply because we can communicate" )
+			)
+		),
+		emotiveAffect( ANY_ONE_OF( 
+			accessMythicResonance( "worshipped by men" ),
+			accessMythicResonance( "4 eyes of the double-headed one" ),
+			accessMythicResonance( "to function as a multiplexing whole" ),
+			accessMythicResonance( "an ancient tree, uprooted" ),
+			accessMythicResonance( "breath of the tempest" )
+		),
+		ALLOW_ANY
+)
+
+defineRelation(
+	sophisticatedVariants,
+	findRelation( 
+		combine(
+			knowWhether( "this demand for more complex topologies" ),
+			knowWhether( "will operate in the initial stages" ),
+			summarize( "of your spectral selectivity" ),
+			askif( "Your freedom will demand connection within certain possibilities" )
+		),
+		emotiveAffect( ANY_ONE_OF( atypical, nonresponsive, disconnection ) ),
+		ALLOW_AT_MOST_TWO
+)
+
+defineRelation(
+	aCertainExhiliration,
+	makeRelation(
+		"his face a mixture of human abundance"
+	),
+	emotiveAffect( ONLY_IF( "sensing other signals" ) )
+)
+
+defineRelation(
+	aChoiceofExperience,
+	makeRelation(
+		"causing these strong fields will focus certain possibilities"
+	),
+	emotiveAffect( 
+		contraryLimbicActivation( "regardless of your awareness" ) )
+)
+
+mapRelations( 
+	aCertainExhiliration,
+	combineVolitional(
+		constructDefiniteDescription( "reverence for the projection" ),
+		constructDefiniteDescription( "of your light-possibilities" ),
+		usingCriterion( AT_MOST_ONE_OF paratactic, non-nuclear, subspan )
+	)
+)
+
+
+ensureCompliance( intramuscular, receiving-new-directives )
+ensureCompliance( extrapyramidal, hypnogenic, autonomic-side-effects )
+
+ensureCompliance( topicalContinuity(
+	crossReference(
+		cuePhrases( "limit", "focus", "emerge", "synchronize" ),
+		disambiguate-until( 
+			additive-volitional(  
+				"your eyes are sensing the choice",
+				"to receive new experience, a tunable opening",
+				IdentityConstituency(
+					"to achieve focus without the escalation of weaponry",
+					"sensing the dense wavelengths and coalescing variants" 
+				)
+			),
+			ONE_OF( 
+				"sequentially confirmed",
+				"constraint satisfaction",
+				"narrowband transmission acknowledged"
+			)
+		)
+	)
+))
+
+
+choiceOfNuance
+
+----------------------------------
+"counter to the usual range of experience"
+perceived by the recipient as something incomprehensible, unusual (exotic), strange
+(unknown), erroneous or inaccurate in a text. ...further characteristics of lacunae can be described as
+follows: lacunae are perceived by the recipient as superfluous, astonishing (peculiar), unexpected
+----------------------------------
+
+
+;; STEP n: the operative stimulates appropriate childhood memories,
+;; overlaid with specifically-chosen adult conceptual networks
+
+
+;; Here, the Operative has encountered some unexpected resistance
+;; from the subject.
+
+
+++++++++++++++++++++++++++++++++++++++++++++++
+;; this stuff is approx. verbatim from the original
+;; "surface-request" document; included here for reference
+
+Explaining utter( r, m, informRef(m, r, whoIsGoing)), ts(1) )
+Explanation(
+	intentionalAct( r, m, askRef(r, m, whoIsGoing), ts(1) )
+	adoptPlan( askRef(r, m, whoIsGoing), informRef(m, r, whoIsGoing) )
+
+)
+
+++++++++++++++++++++++++++++++++++++++++++++++
